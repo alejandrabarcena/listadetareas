@@ -20,6 +20,10 @@ Permite agregar, eliminar y gestionar tareas de forma sencilla, con diseño limp
 
 ![Vista previa](https://github.com/alejandrabarcena/listadetareas/blob/main/previavista.png)
 
+
+ Links :
+    🔗 https://listadetareas-teal.vercel.app/
+    🔗 https://cheery-pixie-087fa9.netlify.app/
 ---
 
 ## 🛠️ Tecnologías Usadas
